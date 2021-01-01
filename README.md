@@ -8,3 +8,5 @@ in the cloud. The cloud function will demonstrate how to invoke dsub to execute 
 For this cloud functions - dsub example, we will run FastQC (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) as a docker container using lifesciences api against fastq files and store the QC report in a GCS bucket.
 
 Also included the Docker file for FastQC. Use `Cloud build` to build the image and store it in the Google cloud `Container registry`
+
+![alt text](https://github.com/hradhakrishnan/Google-cloud-fuctions-dsub/blob/master/fastqc_gcp.png)
