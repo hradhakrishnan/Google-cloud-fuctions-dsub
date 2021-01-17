@@ -1,4 +1,4 @@
-# Google-cloud-fuctions-dsub- lifesciences API
+# Google cloud functions - dsub - Lifesciences API
 
 ## Overview
 
